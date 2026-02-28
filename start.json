@@ -1,6 +1,0 @@
-{    
-    "name": "Start StremioMSX",
-    "version": "1.0.0",
-    "parameter": "content:https://omayanrey.github.io/msx/data/content.json",
-    "welcome": "none"
-}
