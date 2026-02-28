@@ -12,24 +12,12 @@
           "action": "link:https://movhub.ws/home"
         },
         {
+          "title": "Categories (External)",
+          "action": "link:https://movhub.ws/genre"
+        },
+        {
           "title": "MovHub Home (Menu)",
           "action": "url:https://movhub.ws/home"
-        },
-        {
-          "title": "Action",
-          "action": "url:https://movhub.ws/genre/action"
-        },
-        {
-          "title": "Comedy",
-          "action": "url:https://movhub.ws/genre/comedy"
-        },
-        {
-          "title": "Drama",
-          "action": "url:https://movhub.ws/genre/drama"
-        },
-        {
-          "title": "Thriller",
-          "action": "url:https://movhub.ws/genre/thriller"
         }
       ]
     }
