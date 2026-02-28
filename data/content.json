@@ -1,33 +1,3 @@
 {
-  "start": {
-    "content": "movhub"
-  },
-  "content": {
-    "movhub": {
-      "type": "page",
-      "title": "MovHub",
-      "items": [
-        {
-          "title": "MovHub Home",
-          "action": "url:https://movhub.ws/home"
-        },
-        {
-          "title": "Action",
-          "action": "url:https://movhub.ws/genre/action"
-        },
-        {
-          "title": "Comedy",
-          "action": "url:https://movhub.ws/genre/comedy"
-        },
-        {
-          "title": "Drama",
-          "action": "url:https://movhub.ws/genre/drama"
-        },
-        {
-          "title": "Thriller",
-          "action": "url:https://movhub.ws/genre/thriller"
-        }
-      ]
-    }
-  }
+  "action": "link:https://movhub.ws/home"
 }
