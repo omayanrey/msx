@@ -1,7 +1,6 @@
-{
-  "name": "My Media",
-  "nodes": [
-    { "name": "Site 1", "url": "https://animekai.to" },
-    { "name": "Site 2", "url": "https://tv.strem.io" }
-  ]
+{    
+    "name": "Start StremioMSX",
+    "version": "1.0.0",
+    "parameter": "content:https://omayanrey.github.io/msx/data/content.json",
+    "welcome": "none"
 }
