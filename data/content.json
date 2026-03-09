@@ -1,3 +1,7 @@
 {
-  "action": "link:https://tv.strem.io"
+  "name": "My Media",
+  "nodes": [
+    { "name": "Site 1", "url": "https://animekai.to" },
+    { "name": "Site 2", "url": "https://example.com" }
+  ]
 }
